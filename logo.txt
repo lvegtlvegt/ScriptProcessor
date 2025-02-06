@@ -1,0 +1,4 @@
+        <link rel="icon" href="https://lhs.svvsd.org/wp-content/uploads/sites/26/2021/05/lhs-logo.svg" sizes="32x32"/>
+        <link rel="icon" href="https://lhs.svvsd.org/wp-content/uploads/sites/26/2021/05/lhs-logo.svg" sizes="192x192"/>
+        <link rel="apple-touch-icon" href="https://lhs.svvsd.org/wp-content/uploads/sites/26/2021/05/lhs-logo.svg"/>
+        <meta name="msapplication-TileImage" content="https://lhs.svvsd.org/wp-content/uploads/sites/26/2021/05/lhs-logo.svg"/>
