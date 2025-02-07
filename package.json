@@ -1,0 +1,19 @@
+{
+  "homepage": "https://lvegtlvegt.github.io/ScriptProcessor/",
+  "name": "script-processor",
+  "version": "1.0.0",
+  "description": "LHS Drama Script Processor",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d .",
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
