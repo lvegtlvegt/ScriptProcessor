@@ -85,8 +85,10 @@ function ScriptProcessor() {
 
     return (
         <div className="container">
-            <h1>LHS Drama Script Processor</h1>
-            
+            <div className="logo">
+                <img width="261" height="291" src="https://lhs.svvsd.org/wp-content/uploads/sites/26/2021/05/lhs-logo.svg" decoding="async" fetchpriority="high"></img>
+                <h1>LHS Drama Script Processor</h1>
+            </div>
             <div className="controls">
                 <button onClick={() => fileInputRef.current.click()}>
                     Select File

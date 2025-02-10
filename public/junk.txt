@@ -1,0 +1,19 @@
+<div class="flex items-center lg:flex-shrink-0">
+
+                        <div class="w-auto h-11 flex-shrink-0 transform scale-125 mr-2">
+                            <a href="https://lhs.svvsd.org/" class="custom-logo-link" rel="home" aria-current="page"><img width="261" height="291" src="https://lhs.svvsd.org/wp-content/uploads/sites/26/2021/05/lhs-logo.svg" class="custom-logo" alt="Longmont High School Logo" decoding="async" fetchpriority="high"></a>                      </div>
+                      <a href="/">
+                        <div class="school-name font-display uppercase leading-3 ml-2 lg:whitespace-nowrap">
+
+                                                    <span class="hidden text-xl sm:block font-bold leading-5 mb-1">Longmont High School</span>
+                          <span class="hidden sm:block text-primary-700 leading-4">Advanced Placement Focus</span>
+                          <span class="sm:hidden text-xl block font-bold leading-5 mb-1">Longmont</span>
+                          <span class="sm:hidden text-primary-700 leading-4">High School</span>
+                          
+
+                        </div>
+                      </a>
+                    </div>
+
+
+<img width="261" height="291" src="https://lhs.svvsd.org/wp-content/uploads/sites/26/2021/05/lhs-logo.svg" class="custom-logo" alt="Longmont High School Logo" decoding="async" fetchpriority="high">
